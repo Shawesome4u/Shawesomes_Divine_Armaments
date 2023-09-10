@@ -5,7 +5,7 @@ __An Ever Expanding Arsenal of Divine Equipables!__
 
 ##
 Initial Gallery - I made this mod to look nice with my favorite Southsil Armors __Southsil you Beautiful Bastard you!__
-
+##
 ![Banner](https://github.com/Shawesome4u/Shawesomes_Divine_Armaments/blob/main/1.png)
 ![Banner](https://github.com/Shawesome4u/Shawesomes_Divine_Armaments/blob/main/2.png)
 ![Banner](https://github.com/Shawesome4u/Shawesomes_Divine_Armaments/blob/main/3.png)
@@ -17,6 +17,8 @@ Initial Gallery - I made this mod to look nice with my favorite Southsil Armors 
 ![Banner](https://github.com/Shawesome4u/Shawesomes_Divine_Armaments/blob/main/9.png)
 ![Banner](https://github.com/Shawesome4u/Shawesomes_Divine_Armaments/blob/main/11.png)
 ![Banner](https://github.com/Shawesome4u/Shawesomes_Divine_Armaments/blob/main/12.png)
+![Banner](https://github.com/Shawesome4u/Shawesomes_Divine_Armaments/blob/main/13.png)
+![Banner](https://github.com/Shawesome4u/Shawesomes_Divine_Armaments/blob/main/14.png)
 
 ##
 

@@ -42,7 +42,7 @@ __## Special Thanks__
 
 - My Wife and child! Their Love is a Hell of a Drug!!!! 
 - [Meldurson](https://valheim.thunderstore.io/package/Meldurson/AllTameableTamingOverhaul/) for the Outrageous amount of patience and invaluable time you invested in teaching me how to write the code and so much more! Truly Greatful Great Sir!!!!
-- [Cheb Gonaz](https://valheim.thunderstore.io/package/ChebGonaz/) for being able to teach me a great deal of information and also truly show me the depths of the waters I mean to tread hahaha *gulp* - Thank you Great Sir!!!!
+- [Cheb Gonaz](https://valheim.thunderstore.io/package/ChebGonaz/) for creating the sister Mod to this Mod and for being able to teach me a great deal of information and also truly show me the depths of the waters I mean to tread hahaha *gulp* - Thank you Great Sir!!!!
 
 - ## Changelog
 

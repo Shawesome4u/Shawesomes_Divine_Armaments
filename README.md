@@ -26,9 +26,12 @@ For now, it's just the "Cape of Shawesome". I plan to add a lot of other equipab
 ##
 Reach out to [Me](https://www.valheimians.com/member/shawesome/) anytime with any suggestions, tips, learning opportunities and even donations and ill try to get back to you asap! 
 ##
+ __Requirements__
 
-
-
+- Valheim
+- BepInEx
+- Jotunn
+##
 __## New in 0.0.1__
 * Works with Hildir's Update
 * Cape of Shawesome Decends into the 10th Realm!!!!

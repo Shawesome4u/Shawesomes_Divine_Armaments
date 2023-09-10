@@ -21,12 +21,17 @@ Initial Gallery - I made this mod to look nice with my favorite Southsil Armors 
 ![Banner](https://github.com/Shawesome4u/Shawesomes_Divine_Armaments/blob/main/14.png)
 
 ##
+## About Me
+
+[![image1](https://github.com/Shawesome4u/Shawesomes_Divine_Armaments/blob/main/15.png)](https://ko-fi.com/shawesome)
 
 This is the first mod I have ever made so I'm sure there will be TONS of updates to come! I'm just a fledgling modster so please be patient for new items and such. I'm a new parent also so free time for me is truly a commodity! I have been allocating any spare time when not being the __BEST__ dad and hubby ever!!!! to learn the process of modding valheim because cheatmode is not OP enough for me. I dare to tread the mythical realm of the Modding Gods!
+
+If you enjoy the mod and would like to see more content please consider, if you feel so inclined, buying me a snack on [Ko-fi](https://ko-fi.com/shawesome) to help me on my quest, Nom Nom Nom!
 ##
-For now, it's just the "Cape of Shawesome". I plan to add a lot of other equipables such as shields, weapons, MORE CAPES!!!! I have also been doing a lot of research to make sure i can eventually make some Super saiyan hair themed helmets accompanied with modified animations and effects when changing armor to mimic that of "Acending" beyond your limits! Maybe even some sick Ki blasts and Signature moves with canon voice/sound bites. Once im at the level of being able to make acceptable armor modifications i can begin to work on the characters clothing but t'ill then, helmets will have to do. 
+For now, the mod contains just the "Cape of Shawesome". I plan to add a lot of other equipables such as shields, weapons, MORE CAPES!!!! I have also been doing a lot of research to make sure i can eventually make some Super saiyan hair themed helmets accompanied with modified animations and effects when changing armor to mimic that of "Acending" beyond your limits! Maybe even some sick Ki blasts and Signature moves with canon voice/sound bites. Once im at the level of being able to make acceptable armor modifications i can begin to work on the character's signature clothing but t'ill then, helmets will have to do. 
 ##
-Reach out to [Me](https://www.valheimians.com/member/shawesome/) anytime with any suggestions, tips, learning opportunities and even donations and ill try to get back to you asap! 
+Reach out to [Me](https://www.valheimians.com/member/shawesome/) anytime with any suggestions, tips or learning opportunities and ill try to get back to you asap! 
 ##
  __Requirements__
 

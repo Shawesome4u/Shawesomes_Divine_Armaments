@@ -39,7 +39,7 @@ Reach out to [Me](https://www.valheimians.com/member/shawesome/) anytime with an
 - BepInEx
 - Jotunn
 ##
-__## New in 0.0.1__
+__## New in 1.0.0__
 * Works with Hildir's Update
 * Cape of Shawesome Decends into the 10th Realm!!!!
 * The most Divine Cape Valheim has ever been graced with.
@@ -61,6 +61,6 @@ __## Special Thanks__
 
  Date | Version | Notes 
 --- | --- | ---
-10/09/2023 | 0.0.1 | First alpha version
+10/09/2023 | 1.0.0 | First alpha version
 
 </details>

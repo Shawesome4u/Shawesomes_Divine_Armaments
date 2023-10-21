@@ -31,7 +31,7 @@ I Hope you have as much fun using the mod as we are having making it! <3
 ##
 __For now this is what we are working with ^.^__
 ##
-__New in V2.0.0__
+__New in V2.0.1__
 
 *Works with the latest patch*
 
@@ -103,6 +103,7 @@ __Special Thanks__
 
  Date | Version | Notes 
 --- | --- | ---
+10/21/2023 | 2.0.1 | Removed some things that were not meant to be included yet which were causing other things to not work as intended- still was kinda funny lol. 
 10/21/2023 | 2.0.0 | Visual, stat & name update for existing cape. Added 5 additional Divine capes. Using Dhakhar's video instead of all the pix. Added 1 bonus cape, 1 utility item, 1 consumable, 3 weapons and bonus crafting conditions & 7 Boss crafting item drops.
 9/11/2023 | 1.0.2 | Actually fixed the pix lol
 9/11/2023 | 1.0.1 | Update to picture URLs to show on Thunderstore correctly & added discord link

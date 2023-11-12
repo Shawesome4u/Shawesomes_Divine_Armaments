@@ -20,20 +20,59 @@ __About Me__
 
 [![image1](https://raw.githubusercontent.com/Shawesome4u/Shawesomes_Divine_Armaments/main/15.png)](https://ko-fi.com/shawesome)
 
-This is the first mod I have ever made so I'm sure there will be TONS of updates to come! I'm just a fledgling modster so please be patient for new items and such. I'm a new parent also so free time for me is truly a commodity! I have been allocating any spare time, when not being the __BEST__ Dad and Hubby ever, to learn the process of modding valheim because cheatmode is not OP enough for me. I dare to tread the mythical realm of the Modding Gods!
+I'm just a fledgling modster so please be patient for new items and such. I'm a new parent also so free time for me is truly a commodity! I have been allocating any spare time, when not being the __BEST__ Dad and Hubby ever, to learn the process of modding valheim because cheatmode is not OP enough for me. I dare to tread the mythical realm of the Modding Gods!
 
 If you enjoy the mod and would like to see more content please consider, if you feel so inclined, buying me a snack on [Ko-fi](https://ko-fi.com/shawesome) to help me on my quest, Nom Nom Nom!
 ##
-I plan to add a lot of other equipables such as shields, weapons, armor, potions and creatures!(Cameos from some of my/our fav anime- Bleach, Yu-Gi-Oh!, Naruto, One-Piece) (Yes, more capes too!) -"...V2.0.0 aint gonna be perfect as it's essentially the ""first pancake"" it will get updates regarding visuals, lore, names and other descriptive factors and aesthetic tweaks and mayhaps even a new weapon or utility item etc. in the form of a minor update in V2.1.0 and so on... NOW V3.0.0 will be Full of entirely new features beyond just the creation of custom items we're diving deep into creature creation with custom ai's and specific conditional "special events" shall we say for now to keep a little of the magic going lol working on getting better at using my own custom assets..."
+**I plan to balance Everything, EVENTUALLY, I Promise! (Stats & Recipies)** ~~~~ and add a lot of other equipables such as shields, weapons, armor, potions/consumables and creatures!(Cameos from some of my/our fav anime- Bleach, Yu-Gi-Oh!, Naruto, One-Piece, Power Rangers etc etc) (Yes, more capes too!) -"...V2.0.0 aint gonna be perfect as it's essentially the ""first pancake"" it will get updates regarding visuals, lore, names and other descriptive factors and aesthetic tweaks and mayhaps even a new weapon or utility item etc. in the form of a minor update in V2.1.0 and so on... NOW V3.0.0 will be Full of entirely new features beyond just the creation of custom items we're diving deep into creature creation with custom ai's and specific conditional "special events" shall we say for now to keep a little of the magic going lol 
+
+There is a bunch of cleaning up to do (selecting the correct shaders for a few particles/prefabs that will clear upp the yellow warnings) Please be patient with the fixes/updates :D thank you! If there is something that is interfering with your other mods and you find this mod to be the source PLEASE reach out!!!!! 
 
 I Hope you have as much fun using the mod as we are having making it! <3
 
 ##
 __For now this is what we are working with ^.^__
 ##
-__New in V2.0.1__
 
+__New! in V2.0.2__
 *Works with the latest patch*
+*Some sound bites added to some things
+
+*Saiyan Pod - Glider
+
+*Battle Barge - Glider
+
+*Millennium Puzzle - Utility
+
+*Duel Disk - Shield
+
+*Heart of the Cards - Sword
+
+*Svalinn - Shield
+
+*Gungnir - Spear
+
+*Arc Rifle - Gun
+
+*Omni-Servo-Skull - Demister (for now...)
+
+*Arc Wing - Bow
+
+*Transonic Blade - Sword/Servo-spawner
+
+*Staff of the Artificer - Staff
+
+*SSJ5 Ultra Instinct - Utility (yes the legends are true) 
+
+*...and some mock weapons for the Servo-Minions*
+
+
+
+
+
+__Items already in the Mod__
+
+
 
 *Some new crafting Conditions
 
@@ -51,11 +90,11 @@ __New in V2.0.1__
 
 *Vafþrúðnir's Regalia -ICE
 
-*Valkyrie's Grace* -Wind/Earth/Light/Dark/Fire/Ice
+*Valkyrie's Grace* -Wind/Earth/Light/Dark/Fire/Ice - Glider
 
 *"...Cause controlled flight is OVERRATED its all about falling with style..."*
 
-*Nimbus* 
+*Nimbus* -Glider
 
 *SSJ2 Transformation (Utility Item)
 

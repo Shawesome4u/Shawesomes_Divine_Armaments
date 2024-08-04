@@ -22,7 +22,7 @@ If you enjoy the mod and would like to see more content please consider, if you 
 
 ##
 
-**(Stats & Recipies have been updated but will more than likley see more tweaks in the future)** ~~~~ and add a lot of other equipables such as shields, weapons, armor, potions/consumables and creatures!(Yes, more capes too!) -
+**(Stats & Recipies have been updated but will more than likley see more tweaks in the future)** ~~~~ and adding a lot of other equipables such as shields, weapons, armor, potions/consumables and creatures!(Yes, more capes too!) -
 
 There is a bunch of cleaning up to do (selecting the correct shaders for a few particles/prefabs that will clear up the yellow warnings) Please be patient with the fixes/updates :D thank you! If there is something that is interfering with your other mods and you find this mod to be the source PLEASE reach out!!!!! 
 
@@ -37,7 +37,7 @@ I don't plan to add configs any time soon so if you think a recipe/attack dmg/at
 __For now this is what we are working with ^.^__
 ##
 
-__New! in V3.0.5__
+__New! in V3.0.6__
 
 ##
 *Works with the latest Ashlands patch*
@@ -47,15 +47,29 @@ __New! in V3.0.5__
 *some visual updates to some existing items...
 ##
 
+*Black Dragon Cape - ID: shawesomeslayercape
+
+*Helm of Slaying - ID: slayerhelm
+
+*Divine Elemental Sledge - ID: shawesomesledge
+
+*Flaming Heart Greatsword - ID: swordochili
+
+*Twin Blades of the Moon - ID: swordodweller
+
+*Divine Elixer Base - ID: ShawDivineElixerBase
+
+*Asgardian Elixir - ID: ShawDivineElixir
+
+
+__Items already in the Mod__
+
 
 *Frozen Greaves of Vafþrúðnir - ID: shawfrostlegs
 
 *Vafþrúðnir's Glacial Plate - ID: shawfrostchest
 
 *Sight of Vafþrúðnir - ID: shawfrosthelm
-
-__Items already in the Mod__
-
 
 *Elven Cloak - ID: ninebytecloak
 
@@ -144,9 +158,6 @@ __Items already in the Mod__
 *Caliburn - Weapon - Sword
   	ID: Caliburn
 
-*Battle Barge - Glider
-  	ID: NecroTechMARSBC
-
 *Svalinn - Shield
   	ID: SunBlock4000
 
@@ -162,13 +173,8 @@ __Items already in the Mod__
 *Arc Wing - Bow
   	ID: NecroTechBow
 
-*Transonic Blade - Sword/Servo-spawner
-  	ID: NecroTechSword
-
 *Staff of the Artificer - Staff
   	ID: NTSTAFF
-
-*...and some mock weapons for the Servo-Minions*
 
 *Some new crafting Conditions
 
@@ -231,6 +237,7 @@ __Special Thanks__
 - [Meldurson](https://valheim.thunderstore.io/package/Meldurson/AllTameableTamingOverhaul/) for the Outrageous amount of patience and invaluable time you invested in teaching me how to write the code and so much more! It is no exaggeration to say this Mod would not exisit without you!! Truly Grateful Great Sir!!!!
 - [Dhakhar](https://www.youtube.com/@dhakhar) for first Teaching me the basics of advanced Valheim building and not only using your awesome skills to create a video for this mod but you also provided Tier 1 Help with textures!! So sick!!
 - [Tenshi-Quinn](www.youtube.com/@Tenshi-Quinn) For voicing the emperor and being an awesome human being! What a Legend! Much work to be done with his skills! 
+- [Rusty](https://thunderstore.io/c/valheim/p/RustyMods/) for help with making things work properly like the Asgardian potion and base! Thank you Great Sir! 
 - [Valheim Developers] for creating all the original assets for us to mess with :] Long Live Valheim!!!!
 - [Cheb Gonaz](https://valheim.thunderstore.io/package/ChebGonaz/BladeOfShawesome/) for accepting my commission for the Blade of Shawesome/Olympus - I look at this for motivation - Glad i could help with your Mythical Weapon mod, if only a little! :D
 
@@ -243,6 +250,7 @@ __Special Thanks__
 
  Date | Version | Notes 
 --- | --- | ---
+08/04/2024 | 3.0.6 | new potion and potion base added XD new weapons, a helm and a new cape added!  
 06/14/2024 | 3.0.5 | Deep North armor released! XD hope yall like it! 
 05/31/2024 | 3.0.4 | new cloak! will eff have more tweaks coming! 
 05/20/2024 | 3.0.3 | audio and vis fixes along with updated recipes for the lategame progression / nerfed a lot of items/ 

@@ -37,7 +37,7 @@ I don't plan to add configs any time soon so if you think a recipe/attack dmg/at
 __For now this is what we are working with ^.^__
 ##
 
-__New! in V3.0.6__
+__New! in V3.0.7__
 
 ##
 *Works with the latest Ashlands patch*
@@ -250,7 +250,7 @@ __Special Thanks__
 
  Date | Version | Notes 
 --- | --- | ---
-08/04/2024 | 3.0.6 | new potion and potion base added XD new weapons, a helm and a new cape added!  
+08/04/2024 | 3.0.7 | new potion and potion base added XD new weapons, a helm and a new cape added! - fixed recipe issue with divine mead not showing up
 06/14/2024 | 3.0.5 | Deep North armor released! XD hope yall like it! 
 05/31/2024 | 3.0.4 | new cloak! will eff have more tweaks coming! 
 05/20/2024 | 3.0.3 | audio and vis fixes along with updated recipes for the lategame progression / nerfed a lot of items/ 
